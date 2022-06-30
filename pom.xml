@@ -24,10 +24,7 @@
         </license>
     </licenses>
     
-    <properties>
-        <sonar.organization>l-gray</sonar.organization>
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    </properties>
+
 
     <profiles>
 
@@ -1201,6 +1198,8 @@
     </reporting>
 
     <properties>
+        <sonar.organization>l-gray</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.java.target>1.7</project.java.target>
