@@ -23,6 +23,11 @@
             <url>https://choosealicense.com/licenses/gpl-2.0/</url>
         </license>
     </licenses>
+    
+    <properties>
+        <sonar.organization>l-gray</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 
     <profiles>
 
